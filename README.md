@@ -1,3 +1,5 @@
+[![CodeFactor](https://www.codefactor.io/repository/github/alfasquad/richer_text/badge)](https://www.codefactor.io/repository/github/alfasquad/richer_text) 
+
 RicherText allows you to create Text widgets with multiple styles and colors within a single Text widget using RegExp.
 
 ![Example](./example.png)
@@ -29,8 +31,7 @@ There is a demo app in the example folder.
 
 Basically, you need to create a RicherText widget and pass a list of RicherTextCatcher to it. Each RicherTextCatcher has pattern, builder and priority. The priority is used to determine which catcher should be used when multiple catchers collide on the same span of text. Highest priority value is 0. If two catchers have the same priority, the first one on the list will be used.
 
-
-- Basic usage
+-   Basic usage
 
 ```dart
 RicherText(
@@ -47,7 +48,7 @@ RicherText(
 
 ```
 
-- RicherTextCatchers
+-   RicherTextCatchers
 
 There are some predefined catchers in the RicherTextCatchers class. You can use them directly. Also, you can add recognizer to the TextSpan to make it clickable or to make it do anything you want. (Useful for URLs, emails, phone numbers, etc.)
 
@@ -75,4 +76,3 @@ catchers: [
 
 -   [RicherText on pub.dev](https://pub.dev/packages/richer_text)
 -   [RicherText on GitHub](https://github.com/AlfaSquaD/richer_text)
-

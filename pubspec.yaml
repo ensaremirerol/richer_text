@@ -1,5 +1,5 @@
 name: richer_text
-description: A new Flutter package project.
+description: RicherText allows you to create Text widgets with multiple styles and colors within a single Text widget using RegExp.
 version: 0.0.1
 repository: https://github.com/AlfaSquaD/richer_text
 
