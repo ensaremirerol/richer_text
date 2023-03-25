@@ -6,3 +6,7 @@
 
 -   Fix README.md
 -   Fix CHANGELOG.md
+
+## 0.0.1+2
+
+-   Fix README.md

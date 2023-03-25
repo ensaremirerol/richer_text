@@ -1,8 +1,8 @@
-[![CodeFactor](https://www.codefactor.io/repository/github/alfasquad/richer_text/badge)](https://www.codefactor.io/repository/github/alfasquad/richer_text) 
+[![CodeFactor](https://www.codefactor.io/repository/github/alfasquad/richer_text/badge)](https://www.codefactor.io/repository/github/alfasquad/richer_text)
 
 RicherText allows you to create Text widgets with multiple styles and colors within a single Text widget using RegExp.
 
-![Example](./example.png)
+![Example](https://raw.githubusercontent.com/AlfaSquaD/richer_text/main/example.png)
 
 ## Features
 
